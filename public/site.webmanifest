@@ -1,0 +1,21 @@
+{
+    "name": "Juan - Desenvolvedor Web Premium",
+    "short_name": "Innova",
+    "description": "Desenvolvedor Web especializado em sites futuristas e soluções digitais premium.",
+    "icons": [
+        {
+            "src": "/images/logo.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/logo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#0A0A0B",
+    "theme_color": "#8b5cf6"
+}

@@ -12,6 +12,3 @@ Portfolio de alta performance desenvolvido para Seu Nome, com foco em design fut
 - **Tailwind CSS**: Estilização utilitária e design system.
 - **GSAP**: Animações profissionais de alta performance.
 - **Swiper**: Sliders de toque modernos.
-
----
-Desenvolvido por Portfolio Premium.

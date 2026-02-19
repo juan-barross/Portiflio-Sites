@@ -2,7 +2,7 @@
 
 https://juuann.netlify.app/
 
-Portfolio de alta performance desenvolvido para Seu Nome, com foco em design futurista, animações fluidas e experiência do usuário imersiva.
+Portfolio de alta performance, com design futurista, animações fluidas e experiência do usuário imersiva.
 
 ## Tecnologias
 
